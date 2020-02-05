@@ -1,1 +1,2 @@
 Hello Vahram!
+This text is not hardcoded :P
